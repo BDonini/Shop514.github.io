@@ -1,0 +1,16 @@
+EMAIL	ACCOUNT_TYPE	PASSWORD	FIRST_NAME	LAST_NAME	
+alex@gmail.com	customer	ASDFqwe12!	Alex	May				
+mia@gmail.com	customer	ASDFqwe12!	Mia	Bloom 
+morty@gmail.com	business	qwer	Morty 	Smith
+				
+rick@gmail.com	business	qwer	Rick	Sanchez
+jave@gmail.com	customer	jane	Jane	Smith
+beth@gmail.com	business	root	Beth 	Smith
+sofia@gmail.com		sofia	Sofia	Vu
+victoria@gmail.com		root	Victoria	Smith
+alex1@gmail.com	customer	alex	Alex	Green
+lion@outlook.com	business	lion	Lion	orange
+emma1@gmail.com	customer	root	Emma	Blue
+maria@gmail.com	customer	Maria	Maria	Lina
+emily@gmail.ccom	business	emma	Emily	Brie
+sangw2ohan@gmail.com	customer	1234	Sangwoo	Han
